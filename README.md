@@ -4,7 +4,11 @@ Projeto desenvolvido no Bootcamp de Ciência de Dados - BH unimed
 
 Ministrado pelo Prof. Dr. Neylson Crepalde
 
-Fonte de dados: 
+Fontes de dados:
+Inicialmente foi utilizada a base de dados fornecida pelo Prof. Neylson
+https://github.com/neylsoncrepalde/projeto_eda_covid/blob/master/covid_19_data.csv
+
+Para a versão atualizada
 https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset (Version 151)
 
 Observações:
